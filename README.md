@@ -39,8 +39,10 @@ Konteks data:
      - 18: 3rd phase -> general contingent
      - 26: Ordinance No. 533-A/99, item b2) (Different Plan)
      - 27: Ordinance No. 533-A/99, item b3 (Other Institution)
-     - 39: Over 23 years old 42 -> Transfer
-     - 43: Change of course 44 -> Technological specialization diploma holders
+     - 39: Over 23 years old
+     - 42: Transfer
+     - 43: Change of course
+     - 44: Technological specialization diploma holders
      - 51: Change of institution/course
      - 53: Short cycle diploma holders
      - 57: Change of institution/course (International)
