@@ -310,9 +310,7 @@ https://lookerstudio.google.com/reporting/143bfbce-c288-4cd5-9901-51d11c682ddc
 #### Dashboard Karyawan Jaya Jaya Maju - Attrition
 Business dashboard ini berisi visualisasi data dari variabel-variabel yang mempengaruhi attrition. Dimana, tampilan awal menunjukan keselurhan data. Namun, apabila kita ingin melihat data yang tegolong dalam attrition maka dapat dilakukan filter. Untuk data attrition, kita dapat memberi nilai 1 pada menu filter yang terdapat di bagian kanan atas. Sebaliknya, untuk yang data yang tidak tergolong attrition maka kita dapat memberi nilai 0.  
 
-- Gambar
-
-
+![Dashboard Siswa di Institut Jaya Jaya Maju - Google Chrome 2024-02-11 23-35-15](https://github.com/Jischak/Proyek_Data_Science_Menyelesaikan-Permasalahan-Institusi-Pendidikan/assets/52368239/a2df210e-a3ce-4eb9-ae8a-486fa9a939ea)
 
 ## Menjalankan Sistem Machine Learning
 Berikut ini cara untuk menjalankan prototype Machine Learning untuk prediksi Attrition Karyawan di Jaya Jaya Maju.
