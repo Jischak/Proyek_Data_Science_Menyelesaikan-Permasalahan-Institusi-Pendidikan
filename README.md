@@ -255,7 +255,7 @@ Konteks data:
   13. Admission grade: Nilai ujian masuk (antara 0 dan 200)
   14. Displaced: Apakah siswa tersebut adalah orang yang terlantar. (Kategorikal) 1 - ya 0 - tidak
   15. Educational special needs: Apakah siswa memiliki kebutuhan pendidikan khusus. (Kategorikal) 1 - ya 0 - tidak
-  16. Debtor: Apakah siswa tersebut adalah seorang peminjam. (Kategorikal) 1 - ya 0 - tidak
+  16. Debtor: Apakah siswa tersebut adalah seseorang yang memiliki utang atau tunggakan pembayaran terhadap lembaga pendidikan. (Kategorikal) 1 - ya 0 - tidak
   17. Tuition fees up to date: Apakah biaya pendidikan siswa sudah sesuai dengan yang terbaru. (Kategorikal) 1 - ya 0 - tidak
   18. Gender: Jenis kelamin siswa. (Kategorikal) 1 - laki-laki 0 - perempuan
   19. Scholarship holder: Apakah siswa tersebut adalah pemegang beasiswa. (Kategorikal) 1 - ya 0 - tidak
