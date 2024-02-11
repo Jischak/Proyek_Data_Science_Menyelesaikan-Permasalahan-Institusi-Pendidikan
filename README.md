@@ -302,7 +302,7 @@ Business dashboard menggunakan dataset yang telah melalui tahapan persiapan. Dat
 
 Link business dashboard: 
 ```
-
+https://lookerstudio.google.com/reporting/143bfbce-c288-4cd5-9901-51d11c682ddc
 ```
 
 ### Deskripsi Business Dashboard
