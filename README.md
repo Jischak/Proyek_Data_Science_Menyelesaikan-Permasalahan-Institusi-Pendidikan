@@ -279,7 +279,7 @@ Setup environment menggunakan conda:
   ```
   4. Instal semua library yang dibutuhkan dengan perintah berikut.
   ```
-  pip install numpy pandas matplotlib seaborn jupyter scikit-learn==1.2.2
+  pip install numpy pandas matplotlib seaborn jupyter streamlit==1.31.0 scikit-learn==1.2.2
   ```
   5. Buka jupyter-notebook dengan menjalankan perintah berikut.
   ```
@@ -326,7 +326,7 @@ Prototype ini bisa dicoba baik secara lokal (offline) maupun online.
   3. Masuk ke lokasi dimana file streamlit (prediksi.py) berada
   4. Jalankan file streamlit dengan perintah berikut ini:
   ```
-  streamlit run prediksi.py
+  streamlit run prediksi_dropout.py
   ```
 
 ### Bagaiamana mencoba prototype secara online?
