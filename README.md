@@ -332,7 +332,7 @@ Prototype ini bisa dicoba baik secara lokal (offline) maupun online.
 ### Bagaiamana mencoba prototype secara online?
 Tentunya, mudah kok... kamu bisa mengakses melalui link dibawah ini:
 ```
-https://proyekdatasciencemenyelesaikan-permasalahan-human-resources-uq.streamlit.app/
+https://proyekdatasciencemenyelesaikan-permasalahan-institusi-pendidik.streamlit.app/
 ```
 
 ## Conclusion
