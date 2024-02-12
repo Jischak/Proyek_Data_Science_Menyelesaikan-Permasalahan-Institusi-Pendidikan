@@ -315,7 +315,9 @@ Business dashboard ini berisi visualisasi data dari variabel-variabel yang mempe
 ## Menjalankan Sistem Machine Learning
 Berikut ini cara untuk menjalankan prototype Machine Learning untuk prediksi Attrition Karyawan di Jaya Jaya Maju.
 Prototype ini bisa dicoba baik secara lokal (offline) maupun online. 
-- Gambar
+
+![image](https://github.com/Jischak/Proyek_Data_Science_Menyelesaikan-Permasalahan-Institusi-Pendidikan/assets/52368239/230a28d0-0860-4e66-a568-c82614b19fb2)
+
 
 ### Bagaiamana mencoba prototype secara lokal?
   1. Buka terminal atau PowerShell
