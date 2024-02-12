@@ -337,54 +337,39 @@ https://proyekdatasciencemenyelesaikan-permasalahan-human-resources-uq.streamlit
 
 ## Conclusion
 Berikut ini konklusi dari proyek ini:
-  1. Jumlah karyawan yang keluar dari Perusahaan Jaya Jaya Maju adalah sebanyak 179 orang dari total 1058 karyawan atau apabila dipresentasekan sebanyak 16,9%.
-  2. Beberapa faktor yang mempengaruhi karyawan untuk keluar dari perusahaan antara lain:
-     - Jarak tempat tinggal ke kantor: Karyawan yang memiliki jarak tempat tinggal ke kantor antara 0-5 Km dominan untuk keluar dari perusahaan, dimana pada kasus ini sebanyak 72 orang.
-     - Total Lama Bekerja: Karyawan yang memiliki total bekerja selama 10 tahun (0-10 tahun) cenderung lebih besar untuk keluar dari perusahaan dibanding total lama bekerja 10-20 tahun, 20-30 tahun, >40 tahun. Kontribusi-nya sebanyak 137 orang.
-     - Keterlibatan dalam Pekerjaan: Karyawan yang memiliki keterlibatan tinggi (high) dalam pekerjaan memiliki presentase untuk keluar dari perusahaan lebih tinggi (sebanyak 51,4%) dari pada yang keterlibatannya sedang (medium), rendah (low), dan sangat tinggi (very high).
-     - Tingkat Pekerjaan (rendah - tinggi / 1 - 5): Tingkat pekerjaan yang rendah memiliki kontribusi tertinggi untuk jumlah karyawan yang keluar dengan jumlah sebanyak 108 orang.
-     - Kepuasan Lingkungan Kerja: Karyawan yang keluar cenderung memiliki kepuasan yang rendah (low) di lingkungan bekerjanya, dengan presentase sebanyak 31,8%.
-     - Kepuasan Pekerjaan: Keryawan yang keluar cenderung memiliki kepuasan akan pekerjaannya yang tinggi (high), hal ini didukung dengan presentase sebanyak 34,6%.
-     - Tingkat Performa: Jumlah karyawan yang keluar namun memiliki tingkat performa tinggi (151 orang) lebih banyak signifikan dibandingkan yang memiliki tingkat performa yang rendah (28 orang).
-     - Kepuasan Hubungan Kerja: Karyawan yang keluar cederung memiliki kepuasan hubungan kerja yang sangat tinggi (very high) yaitu dengan presentase sebanyak 29,1%. Disisi lain, untuk karyawan dengan kepuasan hubungan kerja tinggi (high) dan rendah (low) memiliki presentase yang tidak berbeda jauh daripada kepusasan hubungan kerja yang sangat tinggi (very high) dengan masing-masing memiliki presentase 27,4% dan 25,7%.
-     - Keseimbangan Kehidupan Kerja: Karyawan yang keluar didominasi oleh para karyawan yang memiliki keseimbangan kehidupan kerja yang sangat baik (excellent) dengan jumlah karyawan sebanyak 94 orang. Disisi lain, karyawan yang keluar dengan keseimbangan kehidupan kerja baik (good), luar biasa (outstanding), dan rendah (low) memiliki jumlah masing-masing adalah 45, 22, dan 18 orang.
-  4. Dari 179 orang yang keluar dari perusahaan, dominan memiliki umur 31 tahun. Hal ini didukung dengan jumlah karyawan yang keluar adalah sebanyak 14 orang.
-  5. Berdasarkan peran pekerjaan karyawan yang keluar dari perusahaan terbanyak tergolong dalam peran pekerjaan sebagai Laboratory Technician dengan jumlah sebanyak 49 orang.
+  1. Jumlah siswa yang dropout / berhenti / keluar dari Institut Jaya Jaya adalah sebanyak 1421 siswa dari total 4424 siswa atau apabila dalam presentase sebesar 32,1%.
+  2. Mayoritas siswa yang dropout adalah siswa yang memiliki status "single" dengan jumlah sebanyak 1184 siswa. Disisi lain, untuk siswa yang dropout dan memiliki status married adalah sebanyak 179. Sisanya adalah siswa yang memiliki status divorced, factor union, legally separated, dan widower dengan masing-masing memiliki jumlah sebanyak 42 siswa, 11 siswa, 4 siswa, dan 1 siswa.
+  3. Siswa yang dropout kebanyakan adalah siswa yang mempunyai waktu studi di siang hari dengan jumlah siswa sebanyak 1214 siswa. Sedangkan, jumlah siswa yang drop out dan memiliki waktu studi di malam adalah sebanyak 207 siswa.
+  4. Siswa yang dropout mayoritas adalah siswa yang memiliki pendidikan terakhir di jenjang pendidikan menengah (secondary education) dengan jumlah sebanyak 1078 siswa.
+  5. Jumlah siswa yang dropout dan memiliki kewarganegaraan Portugal adalah sebanyak 1389.
+  6. Beberapa faktor yang mempengaruhi siswa untuk keluar dari studi antara lain:
+     - Pekerjaan orang tua: Mayoritas siswa yang keluar dari studi adalah siswa yang orang tuanya bekerja sebagai pekerja yang tidak membutuhkan keterampilan khusus, dimana pada kasus ini adalah sebanyak 323 siswa yang ayahnya memiliki pekerjaan tersebut. Selain itu, hal yang sama berlaku juga untuk siswa yang ibunya bekerja, dimana jumlah siswanya sebanyak 490 siswa.
+     - Masyarakat terlantar / kurang mampu: Hampir setengah dari jumlah siswa yang dropout tergolong dalam masyarakat kurang mampu, hal ini terlihat dengan presentase-nya sebanyak 47,1%.
+     - Umur: Mayoritas siswa yang dropout adalah siswa yang berumur 19 tahun, dengan jumlah sebanyak 207 siswa. Selanjutnya, siswa dengan umur 18 sebanyak 202 siswa, umur 20 sebanyak 133 siswa, dan umur 21 sebanyak 93 siswa. 
+  7. Terdapat juga siswa yang berkebutuhan khusus dan memilih untuk dropout, jumlahnya adalah sebanyak 17 siswa.
+  8. Walaupun siswa yang dominan untuk dropout adalah siswa yang bukan penerima beasiswa (1287). Namun, terdapat juga siswa penerima beasiswa dan memilih dropout, jumlahnya sebanyak 134.
+  9. Mayoritas siswa yang dropout adalah siswa yang bukan tergolong siswa internasional dengan jumlah sebanyak 1389 siswa. Walaupun, terdapat juga siswa Inetrnasional yang dropout dengan jumlah sebanyak 32.
+  10. Terkait siswa yang dropout dan biaya pendidikan sudah diperbaharui / tidak, didominasi oleh siswa yang biaya pendidikannya sudah diperbaharui (terbaru) dengan jumlah sebanyak 964 siswa. Walaupun tidak sedikit juga siswa yang biaya pendidikannya belum diperbaharui (sebanyak 457 siswa).
+  11. Berdasarkan jenis kelamain, siswa yang dropout didominasi oleh siswa perempuan dengan presentase sebanyak 50,7%. Disisi lain, presentase siswa laki-laki yang dropout adalah 49,3%.
 
 ### Rekomendasi Action Items
 Berikut ini beberapa rekomendasi action items yang harus dilakukan oleh perusahaan:
-  1. Dalam perekrutan karyawan baru dapat disarankan untuk mengambil karyawan yang telah memiliki total lama bekerja selama 10 tahun.
-  2. Memperbaiki lingkungan kerja dengan mencari alasan spesifiknya, seperti:
-     - Apabila terkait fasilitas perusahaan dapat meninjau dan perbaiki kondisi fasilitas
-     - Memperbaiki hubungan Atasan-Bawahan dengan memberikan pelatihan manajemen untuk meningkatkan keterampilan kepemimpinan dan hubungan antara atasan dan bawahan.
-     - Melakukan Komunikasi Terbuka dan Jelas dengan menyelenggarakan pertemuan rutin atau forum terbuka
-     - Membuat program Pengembangan Karyawan sebagai peluang untuk pengembangan keterampilan dan pertumbuhan karir
-     - Memberi Pengakuan dan Apresiasi melalui implementasi program pengakuan karyawan, seperti penghargaan atau ucapan terima kasih berkala.
-  3. Kepuasan pekerjaan yang tinggi, namun dominan karyawan memilih untuk keluar, berikut ini action itemnya:
-     - Melakukan exit interview mendalam dengan karyawan yang memutuskan untuk keluar walaupun memiliki kepuasan pekerjaan yang tinggi.
-     - Meninjau dan mengevaluasi peluang pengembangan karir yang tersedia bagi karyawan.
-     - Menyediakan lebih banyak program pengembangan keterampilan dan pelatihan untuk meningkatkan keahlian karyawan.
-     - Meningkatkan program pengakuan dan apresiasi untuk memastikan karyawan merasa dihargai.
-     - Melakukan evaluasi faktor-faktor lingkungan kerja seperti hubungan antar rekan kerja, budaya perusahaan, dan manajemen.
-     - Meninjau kebijakan kompensasi dan pastikan bahwa mereka kompetitif dengan industri.
-  4. Karyawan yang keluar dominan memiliki work-life balance yang sangat baik, action itemnya adalah:
-     - Melakukan exit interview mendalam dengan karyawan yang meninggalkan perusahaan untuk memahami alasan mereka meskipun memiliki work-life balance yang baik.
-     - Meninjau dan mengevaluasi faktor-faktor kesejahteraan dan kepuasan karyawan selain work-life balance secara rutin.
-     - Berikan perhatian khusus pada program pengembangan karir dan peluang pertumbuhan.
-     - Konsultasikan dengan karyawan yang masih aktif mengenai pengalaman mereka dengan work-life balance dan apa yang dapat ditingkatkan.
-     - Tingkatkan keterbukaan komunikasi antara manajemen dan karyawan untuk memahami kebutuhan mereka secara lebih baik.
-     - Tinjau dan evaluasi budaya perusahaan untuk memastikan bahwa nilai-nilai dan praktik perusahaan mendukung work-life balance.
-  5. Berikut ini action item yang perlu dilakukan terkait fenomena karyawan yang keluar namun memiliki keterlibatan dalam pekerjaan yang tinggi:
-     - Melakukan exit interview yang mendalam untuk memahami alasan karyawan meninggalkan perusahaan meskipun memiliki tingkat keterlibatan tinggi.
-     - Meninjau kebijakan dan praktik manajemen untuk memastikan bahwa karyawan merasa didukung dan diakui.
-     - Meningkatkan komunikasi internal untuk memastikan karyawan merasa terhubung dan diberi informasi secara jelas.
-     - Mengimplementasikan program pengakuan dan penghargaan yang secara aktif menghargai kontribusi karyawan.
-     - Fokus pada menciptakan lingkungan kerja yang inklusif dan mendukung kolaborasi.
-     - Pertimbangkan kebijakan fleksibilitas kerja untuk memberikan karyawan lebih banyak kendali atas jadwal mereka.
-  6. Apa saja action items yang dapat dilakukan dalam menyikapi fenomena karyawan yang dominan keluar walaupun memiliki kepuasan hubungan yang sangat tinggi?
-     - Melakukan exit interview yang mendalam untuk memahami dengan lebih baik alasan karyawan meninggalkan perusahaan meskipun memiliki kepuasan hubungan kerja yang sangat tinggi.
-     - Meninjau faktor-faktor eksternal yang mungkin memengaruhi keputusan karyawan, seperti tawaran pekerjaan dari perusahaan lain atau perubahan kondisi pribadi.
-     - Menyediakan peluang pengembangan karir dan pertumbuhan yang jelas untuk mendorong karyawan tetap di perusahaan.
-     - Meninjau gaya kepemimpinan di berbagai tingkatan organisasi untuk memastikan bahwa karyawan merasa didukung dan dihargai.
-     - Meningkatkan program penghargaan dan pengakuan untuk menunjukkan apresiasi terhadap kontribusi karyawan.
+  1. Tindak lanjut untuk siswa yang dropout dan memiliki orang tua bekerja sebagai pekerja yang tidak membutuhkan keterampilan khusus, antara lain:
+     - Mendekati siswa secara individu untuk memahami alasan di balik keputusan mereka untuk dropout. Memberikan kesempatan kepada siswa untuk berbicara tentang masalah yang mereka hadapi dan mendengarkan dengan empati.
+     - Melakukan pendekatan kolaboratif dengan orang tua siswa, berkomunikasi secara teratur dengan orang tua siswa untuk membangun kemitraan dalam mendukung perkembangan pendidikan anak-anak mereka.
+     - Mengidentifikasi siswa yang mengalami kesulitan finansial dan memberikan bantuan dalam hal pembayaran biaya sekolah, buku pelajaran, atau peralatan belajar. Selain itum dapat juga menawarkan program beasiswa atau bantuan keuangan bagi siswa yang membutuhkan.
+     - Menyediakan program tutoring atau bimbingan akademik bagi siswa yang membutuhkan bantuan tambahan dalam pelajaran mereka. Mengadakan kelas remedial atau kelas tambahan untuk membantu siswa mengejar ketinggalan akademis dan merasa lebih percaya diri.
+  2. Tindak lanjut untuk siswa yang dropout dan tergolong dalam masyarakat terlantar / kurang mampu
+     - Mendirikan pusat bantuan sosial di sekolah untuk memberikan layanan kesejahteraan, bantuan finansial, dan dukungan emosional bagi siswa dan keluarga mereka. Menyediakan akses ke layanan kesehatan mental dan konseling untuk membantu siswa mengatasi stres dan tantangan yang mereka hadapi.
+     - Mendekati siswa secara individu untuk memahami alasan di balik keputusan mereka untuk dropout dan mengidentifikasi kebutuhan mereka. Memberikan bimbingan akademik dan mentoring untuk membantu siswa mengejar ketinggalan akademis dan merasa lebih percaya diri dalam kemampuan belajar mereka.
+     - Menawarkan program beasiswa atau dana bantuan keuangan bagi siswa yang membutuhkan, untuk membantu mengurangi beban finansial mereka.
+     - Berkolaborasi dengan organisasi non-profit, lembaga amal, atau lembaga agama di komunitas untuk menyediakan bantuan tambahan kepada siswa dan keluarga mereka.
+     - Mengembangkan program pemulihan khusus untuk membantu siswa kembali ke jalur pendidikan, dengan menyediakan dukungan dan bimbingan berkelanjutan.
+     - Menyediakan pelatihan keterampilan hidup yang praktis, seperti keterampilan keuangan, keterampilan komunikasi, dan keterampilan kerja, untuk membantu siswa mempersiapkan diri untuk kehidupan setelah sekolah.
+  3. Tindak lanjut untuk siswa yang dropout dan tergolong dalam rentang umur 18-21 tahun:
+     - Mendekati siswa secara individu untuk memahami alasan di balik keputusan mereka untuk dropout dan memberikan dukungan serta bimbingan yang diperlukan untuk membantu mereka mengatasi hambatan dan mencapai tujuan pendidikan mereka.
+     - Menyediakan program pendidikan kembali yang dirancang khusus untuk siswa yang telah dropout. Program ini dapat membantu siswa mengejar ketinggalan akademis dan meraih kualifikasi pendidikan yang setara dengan tingkat pendidikan mereka.
+     - Memberikan dukungan sosial yang kuat, konseling, dan bantuan kesejahteraan kepada siswa untuk membantu mereka mengatasi stres, kecemasan, dan tantangan kehidupan yang mungkin menyebabkan mereka dropout.
+     - Mengintegrasikan kurikulum yang berbasis keterampilan ke dalam program pendidikan untuk memberikan siswa keterampilan praktis yang dapat meningkatkan peluang mereka untuk mendapatkan pekerjaan yang stabil dan berkelanjutan.
+     - Berkolaborasi dengan perguruan tinggi atau lembaga pelatihan lokal untuk menyediakan program pendidikan lanjutan atau pelatihan keterampilan yang dapat membantu siswa mencapai tujuan pendidikan dan karir mereka.
 
